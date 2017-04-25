@@ -1,0 +1,85 @@
+#menu li a{
+    color:#00A9EC;
+    font-size: 130%;
+}
+#menu li a:hover{
+    background: #FFFFFF;
+    color: #000000;
+    border-radius: 5px;
+    font-size: 135%;
+
+}
+
+
+#menudesple{
+    background: #000000;
+}
+.conteni{
+    justify-content: center;
+    border: 3px solid #FFFFFF;
+    margin: 10%;
+    border-radius: 5px;
+}
+#fondologin{
+   margin: 5%;
+   width: 90%;
+
+}
+#cuerpo{
+    background: url(../img/login/login.jpeg);
+}
+#contenido{
+    margin: 5%;
+}
+ footer .footer-below {
+    padding: 25px 0;
+    background-color: #000000;
+    border-top: 2px solid #000;
+   	bottom: 0;
+    width: 100%;
+    position:  static;
+    color: #FFFFFF;
+    font-size: 110%;
+
+}
+#paginas{
+    color: #000000;
+}
+#menuadmin li a{
+    color: #00A8EC;
+}
+#menuadmin2:hover{
+    background: #000000;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+#menuadmin2{
+    color: #00A8EC;
+    background: #FFFFFF;
+}
+
+#menuacciones{
+    padding: 0%;
+}
+#menuacciones li a:hover{
+    background: #FCFF20;
+}
+
+#usuario a{
+    color: #000000;
+
+}
+#usuario a:hover{
+    color: #00FF0D;
+}
+#tablacabeza{
+    background: #0000ED;
+    color: #FFFFFF;
+}
+#tablacuerpo{
+    background: #00A8EC;
+    color: #FFFFFF;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 110%;
+}
